@@ -1,0 +1,7 @@
+要求：
+
+1 train:valid:test = 50:25:25
+2 accuracy
+3 隐藏层单元数
+4 np.random.seed(171803)
+ 
